@@ -1,2 +1,2 @@
 # Writing on GitHub (Markdown)!
-## GB-Tavares.
+## GB Tavares
