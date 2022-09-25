@@ -1,1 +1,1 @@
-[GitHub](https://github.com/Gabriel-Tavares-GB)
+[GitHub](https://github.com/gbtavares)
