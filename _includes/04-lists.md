@@ -1,4 +1,4 @@
-Hi👋 I am *Gabriel Tavares* :octocat:
+:octocat: Hi👋 I am *Gabriel Tavares* 
 
 ##### Skills
 1. HTML
